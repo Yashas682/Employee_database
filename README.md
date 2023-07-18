@@ -20,6 +20,7 @@ Created with help of YouTube, Google, GitHub, Stack Overflow, free templates on 
 * HTML
 * CSS
 * Javascript
+* PHP
 * My SQL
 
 ### ER Diagram and Relational Schema is also provided as PDF's. 
